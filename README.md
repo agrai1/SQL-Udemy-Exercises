@@ -13,6 +13,7 @@ Below are the questions asked:
 7. Find users who have liked every single photo on the site.
 
 The code that I used to answer said questions can be found in the 'Code' document in the repository.
+
 The code that I used to clone the Instagram database can be found in the 'ig-clone-data.sql' document in the repository.
 
 The link to the course can be found here: https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/learn/v4/
