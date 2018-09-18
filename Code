@@ -34,6 +34,7 @@ SELECT
     photos.user_id,
     users.username,
     COUNT(likes.photo_id)
+FROM photos
 LEFT JOIN likes
     ON photos.id = likes.photo_id
 INNER JOIN users
