@@ -1,6 +1,6 @@
 # SQL-Udemy-Exercises
 
-I took a [Udemy course](https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/learn/v4/) that discussed the basics of SQL including different kinds of data types, aggregation, joins, logical operators and syntax. One of the final exercises was to create a clone of Instagram's database and answer some relevant questions using SQL queries.
+I took a Udemy [course](https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/learn/v4/) that discussed the basics of SQL including different kinds of data types, aggregation, joins, logical operators and syntax. One of the final exercises was to create a clone of Instagram's database and answer some relevant questions using SQL queries.
 
 Below are the questions asked:
 
